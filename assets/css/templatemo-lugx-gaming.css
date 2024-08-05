@@ -1134,13 +1134,13 @@ footer {
 footer p {
   text-align: center;
   line-height: 90px;
-  color: #fff;
+  color: #000000;
   font-size: 16px;
   font-weight: 400;
 }
 
 footer p a {
-  color: #fff;
+  color: #000000;
   transition: all .3s;
   position: relative;
   z-index: 3;
