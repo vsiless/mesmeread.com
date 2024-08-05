@@ -329,7 +329,7 @@ Header Style
 }
 
 .header-area .main-nav .logo h1 {
-  font-size: 86px;
+  font-size: 60px;
   text-transform: uppercase;
   color: #000000;
   font-weight: 600;
@@ -669,7 +669,7 @@ Banner Style
 }
 
 .main-banner .caption h1 {
-  font-size: 80px;
+  font-size: 60px;
   color: #000000;
   margin-top: 20px;
   position: relative;
